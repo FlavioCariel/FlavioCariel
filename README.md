@@ -1,16 +1,29 @@
-### Hi there 👋
+👋 Olá, eu sou o Flávio!
 
-<!--
-**FlavioCariel/FlavioCariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bacharelando em Ciência e Tecnologia na UFABC, atualmente estou explorando o mundo da tecnologia como estagiário na COTIC-SME, localizada em São Paulo. Tenho grande interesse por Data Science e Desenvolvimento Web, sempre buscando desafios que me permitam expandir meus horizontes nesses campos fascinantes.
+🌱 Atualmente
 
-Here are some ideas to get you started:
+    🎓 Cursando bacharelado em Ciência e Tecnologia na UFABC.
+    🖥️ Estagiário na COTIC-SME, São Paulo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Experiência
+
+Atualmente, meu foco principal é em Data Science e Desenvolvimento Web. Possuo experiência nas seguintes áreas:
+
+    Linguagens de Programação: Python e JavaScript.
+    Data Science: Domínio avançado da biblioteca Pandas.
+    Desenvolvimento Web: Aprendendo a utilizar o framework Django.
+
+🚀 Habilidades
+
+    Pensamento Abstrato: Abordo desafios com uma mentalidade abrangente, sempre buscando soluções inteligentes.
+    Adaptabilidade: Capaz de aproveitar as especificidades das tecnologias para criar soluções eficientes e inovadoras.
+    Desenvolvimento Ágil: Comprometido em encontrar soluções práticas e eficazes.
+
+🤝 Conecte-se
+
+Estou sempre aberto a novas conexões e colaborações. Se você compartilha interesses similares ou tem projetos empolgantes, sinta-se à vontade para entrar em contato!
+
+    📧 E-mail: flaviocariel@gmail.com
+
+ 
